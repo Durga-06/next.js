@@ -2,6 +2,7 @@ import { type NodePlopAPI } from 'node-plop'
 import path from 'path'
 import * as helpers from './helpers'
 // I have made changes to this file
+//test
 
 interface TestResponse {
   appDir: string
